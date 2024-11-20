@@ -43,6 +43,17 @@
         </dependency>
 
         <dependency>
+            <groupId>io.quarkiverse.langchain4j</groupId>
+            <artifactId>quarkus-langchain4j-easy-rag</artifactId>
+            <version>${quarkus-langchain4j.version}</version>
+        </dependency>
+        <!-- dev.langchain4j:langchain4j-embeddings-bge-small-en-q:0.35.0 -->
+        <dependency>
+          <groupId>dev.langchain4j</groupId>
+          <artifactId>langchain4j-embeddings-bge-small-en-q</artifactId>
+          <version>0.35.0</version>
+        </dependency>
+        <dependency>
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-rest</artifactId>
         </dependency>

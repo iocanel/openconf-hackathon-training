@@ -1,0 +1,406 @@
+Challenge
+
+Unleash Your Creativity for a Sustainable Future! 
+
+Join our hackathon to rapidly prototype innovative solutions using GenAI tools like Google Vertex AI. Tackle one or more of the 17 United Nations Sustainable Development Goals and showcase your ideas through cutting-edge demo applications.
+
+The Idea
+This Year’s Hackathon Theme: Innovate for a Sustainable Future 
+Participants are challenged to develop a demo application that contributes to sustainable development by addressing one or more of the 17 United Nations Sustainable Development Goals. Let’s code with purpose and make a real impact!
+ 
+The implementation
+Harness the Power of GenAI for Rapid Innovation 
+The goal of this hackathon is to leverage the transformative capabilities of GenAI tools, specifically Google Vertex AI, to rapidly prototype and bring innovative ideas to life. By using GenAI, we aim to push the boundaries of what’s possible, demonstrating how these advanced technologies can significantly accelerate the development process. Participants will explore the immense potential of GenAI to create impactful demo applications in any format, from web and mobile apps to hardware projects and data-driven solutions. This hackathon is not just about coding—it’s about pioneering the future of technology and sustainability.
+
+Deliverables
+Deliverables: From Concept to Final Pitch 
+Teams are required to develop a prototype demo in any format. This could be a web app, mobile app, hardware project, game, chatbot, backend API, data-driven application, or similar project. 
+Teams must also present their idea, implementation, and how they utilized the designated GenAI platform to develop their project during the final pitching session on Friday, November 22, in front of the jury. The presentation should be accompanied by a PowerPoint (PPT) file. 
+All team materials (code, presentation) must be submitted to the jury before the pitching session. Please note that all access rights to the materials belong exclusively to the teams. 
+
+Pariticipation
+
+Participation and Leagues
+Are you part of the Greek tech ecosystem? Whether you’re a tech university student, a seasoned professional, an entrepreneur, or a member of a tech community, the GenAI Hackathon by Open Conference welcomes you! We’ve designed this event to be inclusive and competitive, offering two distinct leagues to ensure everyone has a chance to shine.
+
+Two Leagues to Compete In:
+Experienced League: If you have substantial experience in app development and working with GenAI, this league is for you. Compete for the biggest prize and showcase your advanced skills.
+Novice League: New to tech or GenAI? This league encourages emerging talent and offers a smaller, yet equally prestigious prize for innovation and creativity.
+
+Team Formation:
+Teams can consist of up to 5 members. You can register with an existing team or use our Discord channel to find team partners. During registration, you’ll need to define:
+
+The sustainability goal you aim to address
+Your proposed solution-project
+How you plan to use Google VertexAI in your development process
+
+Important Dates:
+Registration Deadline: October 20th.
+Shortlisting: In the second half of October, the Hackathon team will select the finalist teams to compete.
+Licenses and Training: On November 1, shortlisted teams will be able to join online training for the GenAI framework, Google VertexAI, to begin pre-work (ideation, design, trials).
+
+How to Win
+Step 1: Get Shortlisted
+Submit your entry and aim to be among the 15 finalist teams.
+
+Step 2: Develop and Pitch
+On November 21-22, you’ll develop your project at the Hackathon space @DAIS, with support from mentors. On November 22, pitch your project to the Jury committee with a 5-7 minute presentation, including a demo.
+
+Step 3: Scoring and Winning
+The jury will score teams based on specific categories. Winners in each league (Experienced and Novice) will be announced, and on November 23, winners will pitch their projects on the main stage and receive their awards.
+[More Information on Judging Criteria Here]
+
+Support
+Competing teams will have various levels of support available to ensure their success during project development:
+
+GenAI Manual/Online Training: Comprehensive resources on using GenAI (e.g., APIs, code generation) will be available to all shortlisted teams. [More Information on Infrastructure Here]
+Mentorship: Industry experts in GenAI, business, app development, and marketing will offer guidance in specific slots on November 21-22, live @DAIS. [More Information on Mentoring Here]
+Hackathon Team Support: From logistics like securing licenses and providing venue access to facilitating Discord discussions, the Open Conference Hackathon team is here to help. Use Discord to ask questions and get answers from the Hackathon team. [Join Discord Here]
+
+What’s in it for Me?
+Participating in this Hackathon is a golden opportunity to:
+
+Receive mentorship and advice from industry experts, accelerating your career.
+Build valuable networks with organizations, companies, and peers.
+Gain hands-on experience with cutting-edge AI-assisted coding tools.
+Contribute to innovative solutions that align with global sustainability goals.
+Data Privacy and Ownership
+Your Data:
+By registering, you agree that your registration data will be accessible to the Open Conference Hackathon team, Mentors, and Jury solely for the purpose of the Hackathon.
+Originality of Ideas:
+Participants must confirm that their projects are original and not previously developed. Plagiarism will lead to disqualification.
+Post-Hackathon Opportunities:
+You can opt to be contacted by Hackathon Sponsors for future collaborations and have your name and LinkedIn details published by Open Conference.
+Project Ownership:
+Teams retain full ownership of their projects and can continue developing them post-hackathon. Open Conference reserves the right to publish abstracts and pitching videos along with team names or personal details if consent is given.
+
+Timeline
+
+Beginning
+– Announce Hackathon
+– Announce Concept theme
+
+June 2024
+Preparation
+– Announce Sponsor
+– Announce Platform
+– Announce Awards
+
+July 2024
+Phase 1
+– Announce Full Theme
+– Open Registration
+– Form for Mentors
+– Form for Judging Committee
+
+September 2024
+Phase 2
+– October 20, registrations getting closed
+– Shortlist Teams
+– Communicate with selected teams
+– Mentors and jury briefing
+
+October 2024
+Final Phase
+– November 1-8, shortlisted teams start pre-work infrastructure workshops
+– November 21-22, hackathon execution
+– November 23, winning pitch & awards
+
+November 2024
+<Agenda|/>
+<November 21, 2024|/>
+9:00 – 9:30
+Check in and Breakfast
+@ Hackathon Open Space
+
+09:30 – 10:00
+Welcome and Debriefing
+@ Hackathon Open Space
+
+10:00-18:00
+Mandatory development part
+@ Hackathon Open Space
+
+12:00-18:00
+Training sessions
+@ Hackathon Room2
+
+12:00-18:00
+Mentoring sessions
+@ Hackathon Room2 & Room3
+
+18:00-18:10
+Day Recap
+@ Hackathon Open Space
+
+18:10-20:00
+Training / Mentoring sessions
+@ Hackathon Room2 & Room3
+
+18:10-23:00
+Aditional development part
+@ Hackathon Open Space
+
+23:00
+Hackathon Day Ends
+
+<November 22, 2024|/>
+08:00-09:00
+Breakfast
+@ Hackathon Open Space
+
+08:00-16:00
+Mentoring sessions
+@ Hackathon Room2, Hackathon Open Space
+
+09:30-09:45
+Welcome and Debriefing
+@ Hackathon Open Space
+
+10:00-16:00
+Mandatory development part
+@ Hackathon Open Space
+
+16:00-18:40
+Pitching sessions
+@ Hackathon Open Space
+
+18:40-19:10
+Judges consultation
+@ Hackathon Room2
+
+19:10-19:20
+Announce Winners + Closing
+@ Hackathon Open Space
+
+19:20-20:00
+After Party
+@ OPEN SPACE
+
+<November 23, 2024|/>
+16:30-16:50
+Pre-assembly
+@ Auditorium
+
+16:50-17:00
+Winning pitches
+@ Auditorium
+
+17:00-17:05
+Awards
+@ Auditorium
+
+Prizes
+Prizes
+🎁Winning Team (Experienced League): €1,000 in Skroutz Gift Cards! 
+🎁Winning Team (Novice League): €500 in Skroutz Gift Cards!
+Engagement Awards
+3 Outstanding teams will be also recognized with special distinction awards in the categories below, each receiving acknowledgment as a token of our appreciation. 
+
+Most Fun Project
+Recognizes the team that brought a playful or entertaining element to the hackathon, making the event more enjoyable for everyone. 
+
+Best Use of Resources
+For the team that made the most efficient and effective use of the available resources (e.g. genAI tools, mentors’ slots, usage of discord). 
+
+Most creative solution
+Awarded to the team that developed the most innovative or out-of-the-box idea during the competition.
+
+Results Announcements
+The winning teams and engagement award recipients will be announced at the end of the presentations on Friday at 19:00.
+
+Award Ceremony 
+Prizes will be awarded to the teams during the ceremony on the main stage of the conference on Saturday.
+The two winning teams will have the opportunity to pitch their ideas on the main stage in front of a 500+ audience on that day.
+The award ceremony agenda is as follows:
+
+16:50: Winning Team (Beginner League) Pitch
+16:55: Winning Team (Experienced League) Pitch
+17:00: Awards Presentation
+
+The Infrastructure
+This year, our hackathon is proudly powered by Google Cloud, providing a robust and cutting-edge infrastructure to support your innovation and creativity. Here’s what you need to know about the infrastructure and the resources available to you:
+
+Infrastructure Overview
+Each team will be provided with a pre-configured Google Cloud Platform (GCP) environment, specifically set up by the organizers to ensure a seamless experience. The environment will include all necessary tools and resources to facilitate your project development, including access to Google’s powerful Vertex AI and Gemini services.
+
+Source Code Management
+To streamline the development process, organizers will create private repositories under a common organization, with one repository allocated per team. These repositories will be pre-created and securely managed to ensure that only your team members have access. Access rights will be exclusively granted to your team to maintain confidentiality and control over your code. Be sure to commit your source code to these repositories throughout the hackathon to keep your work organized and up-to-date.
+
+Infrastructure Timeline
+Training Sessions:
+November 1 & November 8: These sessions will utilize Google AI Studio. During these sessions, you’ll get hands-on experience and guidance on using Google’s AI tools to kickstart your project.
+Post-Session Material: All training sessions will be recorded. The recorded materials and resources will be made available to all teams for review.
+
+Hackathon Pre-Work:
+Start Date: You can begin working on your hackathon projects with Google AI Studio starting November 1.
+
+Credentials and Instructions:
+Date: November 18. Detailed instructions and credentials for accessing your GCP environment will be provided.
+GCP Environment Access:
+
+Access Period:
+From November 20 to November 23. During this window, you will have full access to your dedicated GCP environment to develop and finalize your projects.
+
+Training Sessions
+Our online training sessions are designed to equip you with the necessary skills and knowledge to make the most of the GCP tools at your disposal:
+
+Platform: Google AI Studio
+Dates: November 1 and November 8
+Agenda: The agenda will be updated as we approach the sessions. Stay tuned for further details.
+Recording: All sessions will be recorded and available for review after the live sessions.
+
+Google AI Studio Information
+Google Vertex AI Information
+
+Mentoring
+
+The Importance of Mentors
+Mentors are crucial to the success of our hackathon, providing invaluable guidance and expertise that elevate the quality of the participants’ work. Their experience in the industry or academia not only helps teams navigate challenges and refine their ideas but also fosters an environment of learning and growth. By offering targeted advice, constructive feedback, and support, mentors play a pivotal role in helping teams reach their full potential, ensuring that innovative solutions are developed and that participants leave the event with enhanced skills and knowledge. Their involvement is key to creating a meaningful and impactful hackathon experience.  Mentors will provide in general guidance in the following areas based on their expertise:
+
+Founder/Entrepreneur
+AI/ML/GenAI usage
+Software Architecture
+Engineering (backend, full-stack, mobile app)
+UI/UX Design
+Business/Marketing/Legal
+Sustainability solutions
+Mentoring Execution
+Mentoring guidance during the physical event will be done in the following formats.
+
+Initial mentoring – initial teams pitching
+Mentor slots (1:1)
+Ad-hoc mentoring
+ 
+Initial mentoring
+On the first day of the hackathon, Thursday, November 21, all teams will provide an initial pitch to the mentors assigned to that timeslot. Each team will have a total of 5 minutes for their initial pitch, divided into 2-3 minutes for pitching and 2 minutes for Q&A. Mentors will have access to the teams’ ideas beforehand, based on the information provided during team registration. 
+
+Mentor slots
+Each mentor will have an agenda with 15-minute slots that teams can book for consultations. Participants can use the provided booking tool to select and reserve a slot to speak with a mentor of their preference. Meetings with mentors will take place in designated areas based on availability. Bookings must be made by the teams at least 30 minutes prior to the appointment. For example, a timeslot at 11:00 AM must be booked no later than 10:30 AM to allow mentors to have a clear view of their upcoming appointments.
+
+Ad Hoc
+Another form of mentoring will be ad-hoc guidance provided to the teams by mentors. This can be initiated both ways:  
+ 
+Triggered by teams  
+Teams may seek help from a mentor in the designated mentor area if a mentor is available. Teams can ask if a mentor is free and, if the mentor agrees, they can sit together for a short discussion.  
+Alternatively, teams can request help from mentors through the Discord chat using the public “mentors’ request” channel. In this case, it is understood that assistance is provided on a best-effort basis, depending on the availability of a mentor at that time. This method should primarily be used to get advice on which mentor is most appropriate for the team’s needs, after which they can find the mentor and book a slot with them.  
+  
+Triggered by mentors  
+Mentors will walk around the teams, offering assistance, asking about their implementation processes, and providing guidance. 
+
+Hackathon Mentors:
+
+Christos Aridas - AI Engineering Lead @ Satways
+Christos Gkoros - Software Architect @ Postman
+Savvas Iliopoulos - Responsible Gaming & Player Protection Expert @ OPAP
+Ioannis Kanellos - Senior Principal Software Engineer @ RedHat 
+Magy Kontou - Co-founder and Lead Product & UI/UX Designer @ Simple Apps
+Lena Lekkou - Head of Web Department @ SAE institute
+Thanos Leontaris - Legal Advisor @ Ratio Legal serives
+Thanassis Parathyras - Co-founder @ cycleops.io
+Nikos Stathopoulos - Senior Software Engineer @ OPAP
+Dimitrios Togias - CTO @ Instacar - Alex Zacharopoulos
+Alex Zacharopoulos - Software Engineering Expert
+Mike Verros - Software Engineer @ OPAP
+Nikolaos Kiriakopoulos - Software Integration Engineer @ OPAP
+Alexandros Basakidis - Founder and Managing Partner @ Agile Actors
+Thanasis Daglis - Founding Engineer @ intryc
+Alexius Dionysius Diakogiannis - Senior Architect & Squad Lead @ EIB
+Anastasia Masadi - Product Owner & Design Director @ Ethniki Asfalistiki
+Konstantinos Siaterlis - Leading Cloud Infrastructure @ Orfium
+Marina Vasilara - Global Communication & Ecommerce Director @ APIVITA SA | PUIG Group
+
+Judging
+
+The Importance of Judges
+Judges are crucial to the success of our hackathon; they bring in their invaluable critical thinking and expertise to evaluate and recognize the quality of the participants’ work. Their experience in industry or academia not only puts them in a unique position to identify the most innovative and outstanding projects but also fosters an environment of fairness and transparency for the competition. A diverse panel of judges will ensure that the outcome is fair and well-substantiated, as it will be evaluated from multiple perspectives. This diversity brings a breadth of experience and insight, which enhances the validity and comprehensiveness of the final decision. 
+
+Judging Process
+
+Hackathon goal is to ensure a fair, transparent, and efficient judging process that accurately reflects the quality and innovation of each team’s project. To achieve this, we have designed a two-phase evaluation system that allows for both individual and collective assessments by the panel of judges.
+
+The teams will be invited to present their projects live to the judging panel. Each presentation will be followed by a brief Q&A session, where judges can probe deeper into specific aspects of the project. This stage is crucial for assessing how well teams can articulate their ideas, respond to feedback, and demonstrate the functionality of their solutions in real-time.
+
+During a team’s presentation, each judge will fill in the team’s score in their scoreboard, assigning score points to each criterion. This step will be conducted individually and in private by each judge to ensure an unbiased assessment of every project.
+
+After the final presentations by the teams have concluded, the judging panel will convene in private to discuss and identify the top-performing teams. In this private meeting, judges can ask each other clarifying questions and engage in discussions, and potentially adjust their individual scorecard. This collaborative process is designed to ensure that all perspectives are considered, and that discrepancies in scoring can be addressed through open dialogue. At the end of this private meeting, the judges are expected to have finalized their private scores on their scorecards.
+
+Finally, the scores from all judges will be summed together to produce the final score for each team, thus determining the final scoreboard and the winning teams.
+
+Judging Criteria
+ 
+Idea and conception (weight: 40%)
+ 
+Innovation
+The degree of innovation, uniqueness, and forward-thinking in the idea, including its potential to disrupt or significantly advance current solutions.
+
+Impact
+The potential positive impact of the idea on society and the environment.
+
+Problem Solving
+The extent to which the solution effectively addresses one or more specific United Nations (UN) Sustainable Development Goals (SDG).
+
+Applicability
+The solution’s potential to be implemented in a real-world setting, including its feasibility, scalability, and market readiness.
+
+Extensibility
+The ability of the solution to be extended or adapted for additional use cases or markets, demonstrating flexibility and long-term viability.
+
+Approach, design, and implementation (weight: 40%)
+Quality
+The extent to which the codebase is well-structured, efficient, clean, and scalable; best practices have been followed, including modularity, readability, testing, and potential for integration.
+
+Working Prototype
+The team presented a functional and realistic working prototype, mock-up, or code that effectively demonstrates the solution’s feasibility and potential for further development.
+
+Usage of GenAI
+The extent to which the team effectively and innovatively utilized GenAI to enhance their solution, considering the appropriateness of the technology and the value it adds to the overall project.
+
+Difficulty
+The complexity and technical challenge of the project, including the use of advanced technologies, algorithms, or innovative approaches. The criterion assesses how difficult the project was to build, and the technical expertise demonstrated by the team.
+
+Interaction and User Interface and Aesthetics
+The visual appeal, ease of use, navigation, and accessibility of the presented solution, with an emphasis on intuitive design, design coherence, user flow, interaction quality, and overall user experience.
+
+Presentation (weight: 20%)
+Clarity and Aesthetics of Written Communication
+The clarity, completeness, and professionalism of the written communication (including the presentation and project documentation) making the project understandable and appealing even to those not present at the presentation.
+
+Oral Presentation
+The effectiveness of the team’s oral presentation, including clarity, conciseness, audience engagement, and the ability to communicate their work and its impact convincingly.
+
+Meet Our Judges
+￼
+Eleni Aktypi
+Managing Director @ WE LEAD
+￼
+Holly Cummins
+Senior Principal Software Engineer @ RedHat
+￼
+Olympia Karavasili-Arapogianni
+Senior Software Development Lead in Test @ Nokia,
+Oπe\n Conf Organizing Committee Member,
+Oπe\n Conf Hackathon Organizing Team Lead
+￼
+Konstantinos Kechagias
+Associate Researcher @ Athena Research Center,
+R&D Director @ G.N.T. Information Systems S.A.
+￼
+Dimitris Livas
+Entrepreneur
+￼
+Eleni Verteouri
+GenAI Tech Lead, Director @ UBS
+￼
+George Marinakos
+Head of Online Data Analytics & Insights @ OPAP
+￼
+Thanos Patsis
+Director of Acquisition & Growth @ OPAP
+￼
+Vasileios Souleles
+Senior Site Reliability Engineer @ Google,
+Oπe\n Conf Hackathon Organizing Team Lead
+￼
+Yiannis Stamatonikolos
+Curator @ GenAI Summit, Network Coordinator @ UN SDSN Youth Greece, EU Climate Pact Ambassador
