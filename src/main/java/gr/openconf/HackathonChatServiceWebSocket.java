@@ -4,13 +4,13 @@ import io.quarkus.websockets.next.OnOpen;
 import io.quarkus.websockets.next.OnTextMessage;
 import io.quarkus.websockets.next.WebSocket;
 
-@WebSocket(path = "/customer-support-agent")
-public class CustomerSupportAgentWebSocket {
+@WebSocket(path = "/hackathon-chat")
+public class HackathonChatServiceWebSocket {
 
-    private final CustomerSupportAgent customerSupportAgent;
+    private final HackathonChatService hackathonService;
 
-    public CustomerSupportAgentWebSocket(CustomerSupportAgent customerSupportAgent) {
-        this.customerSupportAgent = customerSupportAgent;
+    public HackathonChatServiceWebSocket(HackathonChatService hackathonService) {
+        this.hackathonService = hackathonService;
     }
 
     @OnOpen
@@ -20,6 +20,6 @@ public class CustomerSupportAgentWebSocket {
 
     @OnTextMessage
     public String onTextMessage(String message) {
-        return customerSupportAgent.chat(message);
+        return hackathonService.chat(message);
     }
 }
