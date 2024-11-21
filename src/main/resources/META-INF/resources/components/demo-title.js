@@ -53,7 +53,7 @@ export class DemoTitle extends LitElement {
             <div class="explanation">
                 <p>Welcome to the OpenConf Hackathon</p>
                 <p>Please click the button on the bottom right to start the conversation 
-                with an LLM-powered customer support agent.</p>
+                with an LLM-powered Hackaton Support agent.</p>
             </div>
         `
     }

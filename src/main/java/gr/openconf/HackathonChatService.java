@@ -5,7 +5,7 @@ import jakarta.enterprise.context.SessionScoped;
 
 @SessionScoped
 @RegisterAiService
-public interface CustomerSupportAgent {
+public interface HackathonChatService {
 
     String chat(String userMessage);
 }
